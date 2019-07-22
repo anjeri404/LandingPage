@@ -1,0 +1,106 @@
+nav{
+    width: full;
+    height: 30px;
+    background-color: #4F4D53;
+}
+.img{
+    padding-left: 15%;
+}
+.header {
+    position: relative;
+}
+.header-text {
+    color: #4F4D53;
+    font-size: 80px;
+}
+.Text {
+    padding-top: 5%;
+    position: absolute;
+    text-align: center;
+    width: 100%;
+}
+.headerphoto{
+    width: 100%;
+    height: 350px;
+}
+.a{
+    position: absolute;
+    left: 15%;
+    top: 250px;
+
+}
+.b {
+    position: absolute;
+    left: 40%;
+    top: 250px;
+}
+
+.c {
+    position: absolute;
+    left: 64%;
+    top: 250px;
+}
+.Para{
+    margin-top: 150px;
+    color: #E8BE02;
+    font-size: 64px;
+    text-align: center;
+}
+.paragraph {
+    margin-top: -50px;
+    display: inline-block;
+    margin-left: 27%;
+    text-align: center;
+    width: 550px;
+    margin-bottom: 50px;
+    font-size: 14px;
+    color: #4F4D53;
+}
+.yellowbar {
+    width:100%;
+    height: 20px;
+    background-color: #E8BE02;
+}
+
+footer {
+    width: 100%;
+    background-color : #404040;
+}
+ul {
+    list-style: none;
+}
+.footer {
+    padding: 20px;
+    width: 100%;
+}
+.team {
+    list-style: none;
+    display: inline-block;
+    margin-top: 70px;   
+    padding-left: 23%;
+}
+.learn {
+    list-style: none;
+    display: inline-block;
+    margin-top: 70px; 
+    padding-left: 10%;
+}
+.meet {
+    list-style: none;
+    display: inline-block;
+    margin-top: 70px;
+    padding-left: 10%;
+}
+.contact {
+    list-style: none;
+    margin-top: 70px;
+    padding-left: 10%;
+    display: inline-block;
+}
+
+.join {
+    list-style: none;
+    display: inline-block;
+    margin-top: 10px;   
+    padding-left: 23%;   
+}
